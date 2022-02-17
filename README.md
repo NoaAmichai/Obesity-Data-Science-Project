@@ -1,8 +1,8 @@
 # Obesity_Data_Science_Project
 
-
 <h4><i>Explaination of each variable</i></h4>
-<ul> : gender of the person</li>
+<ul>
+<li>Gender : gender of the person</li>
 <li>Age : age of the person</li>
 <li>Height : height of the person</li>
 <li>Weight : weight of the person</li>
