@@ -1,4 +1,4 @@
-# Obesity Data Science Project
+# Obesity- Classification Project
 By Noa Amichai and Noa Sapir
 
 # Project Intro 
