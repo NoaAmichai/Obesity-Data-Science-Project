@@ -4,7 +4,7 @@ By Noa Amichai and Noa Sapir
 # Project Intro 
 Obesity is a condition in which excess body fat has accumulated to such an extent that it may have a negative effect on health.
 <br> In 2016, more than 1.9 billion adults, 18 years and older, were overweight. For comparison, the world population in this yeas was 7.4 billion (inclouding ages lower than 18) <br>
-more than 25.6% of the wold population.
+more than 25.6% of the world population.
 
 # Research Question
 Can we predict which weight status a person defined? 
@@ -27,4 +27,8 @@ This dataset include data for the estimation of obesity levels in individuals fr
 77% of the data was generated synthetically using the Weka tool and the SMOTE filter, 23% of the data was collected directly from users through a web platform.
 
 ### Models
-We tryied several models to run them to declaire which one is the best for the data. and then decide which model is the best.<br> 
+We have tryied several models to declaire which one is the best for our project.<br> 
+The models we ran:
+Decision Trees, Random Forest and KNN.
+
+
