@@ -2,12 +2,14 @@
 By Noa Amichai and Noa Sapir
 
 # Project Intro 
-Obesity is a condition in which excess body fat has accumulated to such an extent that it may have a negative effect on health.
-<br> In 2016, more than 1.9 billion adults, 18 years and older, were overweight. For comparison, the world population in this yeas was 7.4 billion (inclouding ages lower than 18) <br>
-more than 25.6% of the world population.
+Obesity is a condition in which excess body fat has accumulated to such an extent that it may have a negative effect on health.<br>
+Obesity is a major cause of disability and is correlated with various diseases and conditions, particularly cardiovascular diseases, type 2 diabetes, obstructive sleep apnea, certain types of cancer, and osteoarthritis. <br> 
+A reciprocal link has been found between obesity and depression, with obesity increasing the risk of clinical depression and also depression leading to a higher chance of developing obesity.<br>
+In 2015, 600 million adults (12%) and 100 million children were obese in 195 countries.<br>
+Public health officials view it as one of the most serious public health problems of the 21st century.
 
 # Research Question
-Can we predict which weight status a person defined? 
+Can we predict the human's weight type by using certain features?
 
 # Data Sources
 We took the DataSet from this website:
