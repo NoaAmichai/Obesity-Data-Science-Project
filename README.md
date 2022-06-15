@@ -31,6 +31,13 @@ This dataset include data for the estimation of obesity levels in individuals fr
 ### Models
 We have tryied several models to declaire which one is the best for our project.<br> 
 The models we ran:
-Decision Trees, Random Forest and KNN.
+Decision Trees, Random Forest and KNN. <br>
 
+### Obesity_Semester_B
 
+In Obesity_Semester_B we have tried to  improve the models score. <br>
+we saw that sometimes the model predicts illogical things. <br>
+We will check if there is a direct connection between people who are defined as normal weight and people who are defined as obese type II or type III. <br>
+Accordingly, we will remove columns that may have confused our models in the previous semester. <br>
+<br>
+We will try to achieve better accuracy in our models, also by using other models and other techniques. 
